@@ -1,5 +1,7 @@
 # Discretização de Controladores PI e PID: Da Teoria à Implementação
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO_GITHUB/NOME_DO_SEU_REPOSITORIO/blob/main/PID_discreto.ipynb)
+
 Este repositório contém um Jupyter Notebook (`PID_discreto.ipynb`) que serve como um guia detalhado para a discretização de controladores Proporcional-Integral (PI) e Proporcional-Integral-Derivativo (PID).
 
 ## Objetivo Principal
@@ -36,7 +38,7 @@ Para cada tipo de controlador (PI e PID), as seguintes "regras de substituição
 
 ### Pré-requisitos
 
-Para executar as simulações no notebook, você precisará de Python e das seguintes bibliotecas:
+Para executar as simulações no notebook (localmente), você precisará de Python e das seguintes bibliotecas:
 
 * Jupyter Notebook (ou Jupyter Lab)
 * NumPy
